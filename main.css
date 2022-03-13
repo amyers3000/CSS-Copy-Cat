@@ -1,0 +1,28 @@
+/* Navbar */
+#live{
+    text-decoration: none;
+    padding: .5em;
+}
+ /* Family Section */
+#family{
+    padding-left:5em;
+    font-size: 1.2em;
+}
+
+#news{
+    padding-left:5em;
+    font-size: 1.2em;
+}
+
+/* More News */
+#more{
+    min-width: 70%;
+}
+h5{
+    font-size: 15px;
+}
+/* Search Bar  */
+#search{
+    width: 70%;
+    margin: auto;
+}
